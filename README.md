@@ -13,7 +13,7 @@ The second CSV contains information on dishes offered by the restaurants. It inc
 
 2.Jupiter notebook files: This folder contain IPYNB file where web_scrapping code are there which were used to scrap the data from Swiggy(Bangaluru).
 
-3. SQL Server File : This folder contain SQL query that perform to generate insights.
+3.SQL Server File : This folder contain SQL query that perform to generate insights.
 
 ## Scrapping the data
 ![part_1](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/49a31185-4fa7-4b76-888e-690dd781afaa)
@@ -79,7 +79,22 @@ Here is the main dashboard which is dynamic in nature and the slicer added is fo
 																														
 ![image](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/dcf52f06-2df6-4c86-aea9-bc85f53ddf8d)
 
+## Visulization
+![Screenshot (639)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/0e0ffb3f-7c6f-45d5-b600-e3e65fb9cd62)
 
+Koromangala is a location where maximum numbere restourant above 1k Rating.
+
+![Screenshot (640)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/d1d7e624-6e96-4619-94d7-ec3c62b2a5f9)
+
+Malabar bay is the most popular restourant by rating.
+
+![Screenshot (641)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/e4569cf9-a117-40e2-9ad8-1b525b3f33c0)
+
+Beverages is a most popular cusine whose maximum number of restourant follow.
+
+![image](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/21a5cdbf-683f-4040-8321-f143a7a15355)
+
+More percentage of restourant is sitiuated in Banaswadi.
 
 ## Challenges Faces
 1.Collecting data from single platform for different restaurants was time consuming.
