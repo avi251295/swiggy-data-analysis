@@ -1,4 +1,4 @@
-# Swiggy-data-analysis
+## Swiggy-data-analysis
 
 ## Introduction
 In the ever-evolving food delivery landscape, understanding the dynamics of popular platforms like swiggy.com is crucial for making informed decisions. By employing web scraping techniques to gather data on restaurant ratings, cuisine, and pricing, valuable insights and recommendations can be generated. This analysis not only aids in evaluating the viability of opening a remote kitchen in Bangalore but also offers broader industry insights, including area-wise distribution of restaurants, affordable and upscale options for various cuisines, and the prevalence of different culinary offerings.
@@ -42,6 +42,8 @@ The methodology for creating a dashboard based on the provided CSV data can invo
 
 ## Dashboard Creation
 Here is the main dashboard which is dynamic in nature and the slicer added is for different locations, cuisine, and restaurant name.
+
+SWIGGY DATA ANALYSIS																														
 																														
 																														
 																														
@@ -76,8 +78,8 @@ Here is the main dashboard which is dynamic in nature and the slicer added is fo
 																														
 																														
 																														
-																														
-![image](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/dcf52f06-2df6-4c86-aea9-bc85f53ddf8d)
+![image](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/87305913-5179-45c5-9497-b2e824dfc91b)
+
 
 ## Visulization
 ![Screenshot (639)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/0e0ffb3f-7c6f-45d5-b600-e3e65fb9cd62)
@@ -92,9 +94,14 @@ Malabar bay is the most popular restourant by rating.
 
 Beverages is a most popular cusine whose maximum number of restourant follow.
 
-![image](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/21a5cdbf-683f-4040-8321-f143a7a15355)
+![Screenshot (648)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/dc0cba29-93f4-4fcc-a852-6dadc7f145aa)
 
-More percentage of restourant is sitiuated in Banaswadi.
+Highest number of restourant is sitiuated in Banaswadi.
+
+![Screenshot (649)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/6d1a1d25-185a-4866-8dff-fd1627ce800c)
+
+Indranagar is a place where highest number of less rated restourant present.
+
 
 ## Challenges Faces
 1.Collecting data from single platform for different restaurants was time consuming.
