@@ -109,7 +109,9 @@ Indranagar is a place where highest number of less rated restourant present.
 
 ## Lesson Learned
 1.Web Scrapping can be effective tool for collecting larger amount of information but it requires careful consideration of legal & ethical issues.
+
 2.Data Cleaning & processing are important steps in data analysis, investing time & effort can prevent many headaches.
+
 3.Good data visualization is essential to convey understanding to stakeholders or clients.
 
 ## Future Scope
