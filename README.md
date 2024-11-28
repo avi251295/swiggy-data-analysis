@@ -41,66 +41,24 @@ The methodology for creating a dashboard based on the provided CSV data can invo
 
 
 ## Dashboard Creation
-Here is the main dashboard which is dynamic in nature and the slicer added is for different locations, cuisine, and restaurant name.
 
-SWIGGY DATA ANALYSIS																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-																														
-![image](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/87305913-5179-45c5-9497-b2e824dfc91b)
+![Screenshot (57)](https://github.com/user-attachments/assets/1f7086c1-1a3e-4379-99f9-352a61c8f4e6)
 
+This dashboard provides a comprehensive overview of the food delivery platform's data. It showcases the top 5 locations with the highest count of restaurants, allowing users to identify popular areas. Additionally, it highlights the top 5 restaurants for each type of cuisine, aiding in the exploration of diverse culinary options. The treemap visualization illustrates the distribution of restaurants, while the location-wise breakdown of restaurants with reviews exceeding 1000 offers insights into highly reviewed areas.
 
 ## Visulization
-![Screenshot (639)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/0e0ffb3f-7c6f-45d5-b600-e3e65fb9cd62)
+![Screenshot (56)](https://github.com/user-attachments/assets/757921c1-6107-4a53-afd6-41179ea4aab6)
 
-Koromangala is a location where maximum numbere restourant above 1k Rating.
+Indiranagr restaurants is a top restaurant in sum of rating count followed by other locations.
 
-![Screenshot (640)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/d1d7e624-6e96-4619-94d7-ec3c62b2a5f9)
+![Screenshot (54)](https://github.com/user-attachments/assets/a407177d-1afd-4195-b22e-0a1ed1aa82af)
 
-Malabar bay is the most popular restourant by rating.
 
-![Screenshot (641)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/e4569cf9-a117-40e2-9ad8-1b525b3f33c0)
+Beverages are the most orderd followed by Desserts, Snacks, South Indian & Chineses respectively.
 
-Beverages is a most popular cusine whose maximum number of restourant follow.
+![Screenshot (53)](https://github.com/user-attachments/assets/14b6b993-41ad-4a7f-ae06-2d0f6a58d91d)
 
-![Screenshot (648)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/dc0cba29-93f4-4fcc-a852-6dadc7f145aa)
-
-Highest number of restourant is sitiuated in Banaswadi.
-
-![Screenshot (649)](https://github.com/avi251295/swiggy-data-analysis/assets/120267658/6d1a1d25-185a-4866-8dff-fd1627ce800c)
-
-Indranagar is a place where highest number of less rated restourant present.
+Most restaurants are listed in Indiranagar followed by Layout, Koromangala, Jayanagar, Basvanagudi respectively.
 
 
 ## Challenges Faces
